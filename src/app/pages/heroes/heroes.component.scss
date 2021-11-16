@@ -1,0 +1,28 @@
+.box {
+  justify-content: center;
+  display: flex;
+
+  &__table {
+    width: 80%;
+    padding: 32px;
+  }
+
+  &__table-header {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+  }
+
+  &__filter-form {
+    width: 350px;
+  }
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+table {
+  width: 100%;
+  padding: 16px;
+}
