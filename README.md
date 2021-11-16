@@ -1,10 +1,6 @@
 
 # Proyecto Heroes: Angular 12
 
-## link:
-
-https://drive.google.com/file/d/1OxM-egJVALXVwwSGjZ7d-Wjb2-VQcCfR/view?usp=sharing
-
 ## Correr Proyecto Sin Docker:
 
 1 - Instalar dependencias
